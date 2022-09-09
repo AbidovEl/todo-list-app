@@ -6,8 +6,8 @@
 
 ### What's used to complete project:
 
-Frontend: ReactJs
-Backend: ASP.NET (not completed yet)
+1. Frontend: ReactJs
+2. Backend: ASP.NET (not completed yet)
 
 ### To run the project:
 
